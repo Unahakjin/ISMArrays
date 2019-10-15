@@ -1,0 +1,7 @@
+E:\ISM\ISMArrays\Arrays2\bin\Debug\Arrays2.exe.config
+E:\ISM\ISMArrays\Arrays2\bin\Debug\Arrays2.exe
+E:\ISM\ISMArrays\Arrays2\bin\Debug\Arrays2.pdb
+E:\ISM\ISMArrays\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+E:\ISM\ISMArrays\Arrays2\obj\Debug\Arrays2.exe
+E:\ISM\ISMArrays\Arrays2\obj\Debug\Arrays2.pdb
+E:\ISM\ISMArrays\Arrays2\obj\Debug\Arrays2.csprojAssemblyReference.cache
