@@ -1,0 +1,6 @@
+E:\ISM\ISMArrays\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\ISM\ISMArrays\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\ISM\ISMArrays\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\ISM\ISMArrays\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\ISM\ISMArrays\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\ISM\ISMArrays\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{BC306248-31F0-4E57-9F56-69C9E4BFF990}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDraw", "OOPDraw\OOPDraw.csproj", "{C0D022BB-DF12-4310-889F-E2B3D09A9626}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4D18D9CB-75AC-4F99-A6D2-0575B51F8950} = {4D18D9CB-75AC-4F99-A6D2-0575B51F8950}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4D18D9CB-75AC-4F99-A6D2-0575B51F8950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,14 @@ Global
 		{BC306248-31F0-4E57-9F56-69C9E4BFF990}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC306248-31F0-4E57-9F56-69C9E4BFF990}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC306248-31F0-4E57-9F56-69C9E4BFF990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D022BB-DF12-4310-889F-E2B3D09A9626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D022BB-DF12-4310-889F-E2B3D09A9626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D022BB-DF12-4310-889F-E2B3D09A9626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D022BB-DF12-4310-889F-E2B3D09A9626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D18D9CB-75AC-4F99-A6D2-0575B51F8950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D18D9CB-75AC-4F99-A6D2-0575B51F8950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D18D9CB-75AC-4F99-A6D2-0575B51F8950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D18D9CB-75AC-4F99-A6D2-0575B51F8950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
